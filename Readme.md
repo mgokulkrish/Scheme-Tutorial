@@ -2,6 +2,8 @@
 
 Scheme is a functional language.
 
+![scheme-language-logo](./scheme_image.png)
+
 ## Installation.
 
 You will be using the Racket programming environment for your Scheme programming. Although the Racket environment supports richer languages than the standard (R5RS) Scheme language, you will need to use the R5RS version of Scheme. To install Racket:
